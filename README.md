@@ -1,7 +1,6 @@
 # Personal Assistant Appointment System
 
-This is a personal assistant appointment system built using Streamlit, LangChain, and Zapier. It allows users to schedule service appointments with Sanchuka, a software engineer who offers solution consulting, full-stack development, and AI/ML development services.
-
+This is a personal assistant appointment system built using Streamlit, LangChain, and Zapier. It allows users to schedule service appointments.
 ## Features
 
 - Chat interface for scheduling appointments
