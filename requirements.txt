@@ -1,0 +1,5 @@
+streamlit==1.22.0
+python-dotenv==1.0.0
+langchain==0.0.130
+openai==0.27.0
+zapier-nla==0.2.0

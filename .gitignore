@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# IDEs
+*.idea/
+
+# System files
+.DS_Store
+Thumbs.db
